@@ -1,0 +1,5 @@
+<resources>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">SqY1xdwvySrdJF9TRD6HOpAKTmHM4ksvOXqog</string>
+	<string moduleConfig="true" name="reactNativeCodePush_androidServerURL">http://hailong.vaiwan.com/</string>
+    <string name="app_name">hot_demo</string>
+</resources>
