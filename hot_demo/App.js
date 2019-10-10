@@ -3,7 +3,7 @@
  * @Author: hailong.chen
  * @Date: 2019-05-04 03:34:24
  * @LastEditors: hailong.chen
- * @LastEditTime: 2019-10-05 11:58:38
+ * @LastEditTime: 2019-10-09 21:57:14
  * @Descripttion:
  */
 import React, { Component } from 'react';
@@ -105,7 +105,7 @@ class App extends Component{
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to CodePush! 666
+          Welcome to CodePush! ====---
         </Text>
         <TouchableOpacity onPress={this.sync.bind(this)}>
           <Text style={styles.syncButton}>Press for background sync</Text>
